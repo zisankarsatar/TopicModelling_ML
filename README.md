@@ -12,6 +12,8 @@
 <p>Bir belge koleksiyonunda ortaya çıkan soyut “konuları” keşfetmek için kullanılan bir istatistiksel modelleme türüdür. Gizli Dirichlet Tahsisi (LDA) ve Non-Negative Matrix Factorization (NMF) iki farklı yaklaşımıdır.</p>
 
 ## Kaynakça:
-https://stackabuse.com/python-for-nlp-topic-modeling/
-https://www.depends-on-the-definition.com/understanding-text-data-with-topic-models/
-https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+<ul>
+<li>https://stackabuse.com/python-for-nlp-topic-modeling/</li>
+<li>https://www.depends-on-the-definition.com/understanding-text-data-with-topic-models/</li>
+<li>https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24</li>
+<ul>

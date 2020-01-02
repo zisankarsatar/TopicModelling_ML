@@ -10,7 +10,12 @@
 
 ## Kısaca Topic Modelling:
 <p>Bir belge koleksiyonunda ortaya çıkan soyut “konuları” keşfetmek için kullanılan bir istatistiksel modelleme türüdür. Gizli Dirichlet Tahsisi (LDA) ve Non-Negative Matrix Factorization (NMF) iki farklı yaklaşımıdır.</p>
-
+## Kullandığım Sürümler:
+<ul>
+<li>Python 3.7.4/</li>
+<li>gensim 3.8.1 (pip install gensim)</li>
+<li>Anaconda 1.7.2</li>
+<ul>
 ## Kaynakça:
 <ul>
 <li>https://stackabuse.com/python-for-nlp-topic-modeling/</li>
